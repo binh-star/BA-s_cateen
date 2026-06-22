@@ -1,0 +1,57 @@
+{
+    "com_trang": {
+        "ten": "Cơm trắng",
+        "gia": 10000,
+        "calo": 200
+    },
+    "dau_hu_sot_ca": {
+        "ten": "Đậu hũ sốt cà",
+        "gia": 25000,
+        "calo": 150
+    },
+    "ca_kho": {
+        "ten": "Cá hú kho",
+        "gia": 30000,
+        "calo": 250
+    },
+    "thit_kho_trung": {
+        "ten": "Thịt kho trứng",
+        "gia": 30000,
+        "calo": 350
+    },
+    "thit_kho": {
+        "ten": "Thịt kho",
+        "gia": 25000,
+        "calo": 300
+    },
+    "canh_chua_co_ca": {
+        "ten": "Canh chua có cá",
+        "gia": 25000,
+        "calo": 200
+    },
+    "canh_chua_khong_ca": {
+        "ten": "Canh chua không cá",
+        "gia": 10000,
+        "calo": 100
+    },
+    "suon_nuong": {
+        "ten": "Sườn nướng",
+        "gia": 30000,
+        "calo": 350
+    },
+    "canh_rau": {
+        "ten": "Canh rau",
+        "gia": 7000,
+        "calo": 50
+    },
+    "rau_xao": {
+        "ten": "Rau xào",
+        "gia": 10000,
+        "calo": 80
+    },
+    "trung_chien": {
+        "ten": "Trứng chiên",
+        "gia": 25000,
+        "calo": 200
+    }
+}
